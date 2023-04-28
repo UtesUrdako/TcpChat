@@ -1,0 +1,8 @@
+D:\Project\TZ BK Studio\WpfTcpChat\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Project\TZ BK Studio\WpfTcpChat\ChatServer\bin\Debug\ChatServer.exe
+D:\Project\TZ BK Studio\WpfTcpChat\ChatServer\bin\Debug\ChatServer.pdb
+D:\Project\TZ BK Studio\WpfTcpChat\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+D:\Project\TZ BK Studio\WpfTcpChat\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+D:\Project\TZ BK Studio\WpfTcpChat\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\Project\TZ BK Studio\WpfTcpChat\ChatServer\obj\Debug\ChatServer.exe
+D:\Project\TZ BK Studio\WpfTcpChat\ChatServer\obj\Debug\ChatServer.pdb
